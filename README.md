@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Vishesh Gupta 👋<br>I’m a passionate coder and developer building projects in JavaScript, PHP, C++, data structures & algorithms, and full-stack applications. On my GitHub, you’ll find a variety of repositories including web apps, backend systems, DSA solutions, and real-world practice projects. I love learning new technologies and sharing code to help others grow. Feel free to explore my projects and connect!
+Hi! I’m Vishesh Gupta 👋<br>I’m a passionate coder and developer building projects in Python, JavaScript, PHP, C++, data structures & algorithms, and full-stack applications. On my GitHub, you’ll find a variety of repositories including web apps, backend systems, DSA solutions, and real-world practice projects. I love learning new technologies and sharing code to help others grow. Feel free to explore my projects and connect!
 
 
 # 💻 Tech Stack:
